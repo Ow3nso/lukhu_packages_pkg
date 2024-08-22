@@ -54,7 +54,7 @@ dependencies:
   dukastax_pkg:
     git: 
       url: https://github.com/Ow3nso/dukastax_pkg.git
-      ref: master
+      ref: main
 
   image_picker: ^0.8.6
   dotted_border: ^2.0.0+3
